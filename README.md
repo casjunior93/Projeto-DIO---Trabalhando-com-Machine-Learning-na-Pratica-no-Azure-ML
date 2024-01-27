@@ -55,3 +55,9 @@ Na página da tarefa, acessei a aba métricas.
 ![Img](./imgs/criar-recurso7.gif)
 
 ## Passo 5: Teste do modelo
+
+Na página do modelo, cliquei na aba "Pontos de extremidade". Também é possível acessar pelo menu lateral em "Pontos de extremidade". Cliquei no ponto correspondente ao modelo gerado.
+
+![Img](./imgs/pontos.gif)
+
+Em seguida, acessei a aba "Testar".
