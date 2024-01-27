@@ -10,13 +10,13 @@ Links importantes:
 
 [Fonte dos dados](https://aka.ms/bike-rentals)
 
-## Passo 1
+## Passo 1: Criando recurso do Azure Machine Learning
 
 Primeiro precisei criar um recurso de Machine Learning. Para isso, cliquei em "Criar recurso" e depois pesquisei por Azure Machine Learning no marketplace. Após encontrar o recurso, crie ele.
 
 ![Img](./imgs/criar-recurso.gif)
 
-## Passo 2
+## Passo 2: Configurando o recurso do Azure Machine Learning
 
 Na aba de Noções básica, Detalhes do recurso, é informei a assinatura para cobrança no campo Assinatura e depois informei o Grupo de recursos que vai englobar o recurso que será criado.
 
@@ -41,3 +41,17 @@ No passo "Tipo de tarefa e dados", selecionei o tipo de tarefa como Regressão e
 No passo "URL da Web", informei a URL https://aka.ms/bike-rentals do conjunto de dados. No passo "Configurações", preenchi as configurações do conjunto e após avançar para "Esquema", verifiquei os tipos de dados. Finalmente, ao avançar, verifiquei as configurações criadas para o ativo de dados e cliquei em criar.
 
 ![Img](./imgs/criar-recurso5.gif)
+
+Após finalizar o trabalho de treinamento, o modelo fica acessível na opção de menu "Modelo".
+
+![Img](./imgs/criar-recurso6.gif)
+
+## Passo 4: Métricas do modelo
+
+Para acessar as métricas do modelo treinado, na página do modelo, acesso o link informado em "Criado por trabalho". Também é possível acessar o trabalho informado na opção do menu "Tarefas (jobs)".
+
+Na página da tarefa, acessei a aba métricas.
+
+![Img](./imgs/criar-recurso7.gif)
+
+## Passo 5: Teste do modelo
