@@ -50,13 +50,13 @@ Em "Configurações de tarefas", escolhi o conjunto de dados importado. Após, e
 
 Nos campos de "Limite", preenchi com os valores abaixo e marquei "Habilitar encerramento antecipado".
 
-![Img](./imgs/img7.gif)
+![Img](./imgs/img7.png)
 
 Em "Validar e testar", em "Tipo de validação" escolhi "Divisão de validação de treinamento".
 
 Ao avançar, em Computação, mantive os valores mostrados na imagem abaixo.
 
-![Img](./imgs/img8.gif)
+![Img](./imgs/img8.png)
 
 Após avançar e examinar as configurações do trabalho, cliquei em "Enviar trabalho de treinamento".
 
