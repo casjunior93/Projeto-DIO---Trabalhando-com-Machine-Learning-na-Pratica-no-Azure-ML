@@ -60,7 +60,11 @@ Ao avançar, em Computação, mantive os valores mostrados na imagem abaixo.
 
 Após avançar e examinar as configurações do trabalho, cliquei em "Enviar trabalho de treinamento".
 
-Após finalizar o trabalho de treinamento, o modelo fica acessível na opção de menu "Modelo".
+Após finalizar o trabalho de treinamento, precisei criar o modelo. Para isso, acessei a página do trabalho realizado e cliquei em "Modelo de registro". Deixei as opções padrões para "Selecionar saída". Em "Configurações do modelo", somente preenchi o nome e a versão. Após isso, cliquei em criar o modelo.
+
+![Img](./imgs/img12.gif)
+
+Po fim, o modelo fica acessível na opção de menu "Modelo".
 
 ![Img](./imgs/img9.png)
 
@@ -74,7 +78,11 @@ Na página da tarefa, acessei a aba métricas.
 
 ## Passo 5: Teste do modelo
 
-Na página do modelo, cliquei na aba "Pontos de extremidade". Também é possível acessar pelo menu lateral em "Pontos de extremidade". Cliquei no ponto correspondente ao modelo gerado. Em seguida, acessei a aba "Testar".
+Na página do modelo, acessei a aba "Pontos de extremidade" e em seguida cliquei em "Implantar". Porém, por algum motivo o botão não funcionou. Então, para criar o ponto de extremidade para esse modelo, acessei "Pontos de extremidade" no menu lateral, e cliquei em "Criar". Em seguida marquei o modelo e deixei todos os campos seguintes como os valores padrões, exceto "Contagem de instâncias" que deixei como 1. Então cliquei em "Implantar".
+
+![Img](./imgs/img13.gif)
+
+Logo após a implantação, que demora bastante, acessei a aba "Testar" do ponto de extremidade criado para o meu modelo.
 
 Para o teste, utilizei o json abaixo:
 
