@@ -32,7 +32,7 @@ Nessa página, existe o botão "Iniciar o estúdio" que redirecionará para o es
 
 ![Img](./imgs/img4.png)
 
-## Passo 3
+## Passo 3 - Criando o modelo
 
 No estúdio, na página do workspace criado anteriormente, acessei a opção do menu ML automatizado e na página aberto, cliquei em "Novo trabalho de ML automatizado".
 
